@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npx nodemon server.js"
   },
-  "author": "",
+  "author": "Shanthoshkanna Yohalingam",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
